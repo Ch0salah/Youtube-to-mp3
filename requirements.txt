@@ -1,0 +1,5 @@
+tk
+matplotlib
+moviepy
+pytube
+shutil
